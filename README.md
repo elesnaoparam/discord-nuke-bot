@@ -1,4 +1,3 @@
-# viadage
 joga a .py no vs code
 
 da run, abre o terminal e usa:
